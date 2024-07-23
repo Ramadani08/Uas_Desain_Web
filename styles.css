@@ -100,7 +100,6 @@ h1 span:before{
     text-align: center;
     color: #4d4d4d;
     margin-top: 30px;
-    align-content: center;
 }
 
 .containner{
@@ -119,7 +118,8 @@ h1 span:before{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border-radius: 10px;
+    border-radius: 20px;
+    border: 3px solid white;
 }
 
 .containner h3, p{
